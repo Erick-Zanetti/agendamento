@@ -1,0 +1,7 @@
+enum AgendamentoStatus {
+  AGENDADO,
+  INICIADO,
+  CANCELADO,
+  CONCLUIDO,
+  REAGENDADO
+}

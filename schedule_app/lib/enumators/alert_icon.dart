@@ -1,0 +1,4 @@
+enum AlertIcon {
+  SUCCESS,
+  ERROR,
+}
